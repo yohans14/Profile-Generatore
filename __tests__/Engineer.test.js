@@ -10,7 +10,7 @@ test("it should set GitHUb account via constructor", () => {
 	);
 	expect(enginner.github).toBe(gitHubUser);
 });
-test("it shouold get github info by using getgithub()", () => {
+test("it shouold get github info with getgithub()", () => {
 	const gitHubUser = "GitHubUser";
 	const enginner = new Engineer(
 		"Yohans14",
@@ -21,7 +21,7 @@ test("it shouold get github info by using getgithub()", () => {
 	expect(enginner.getGithub()).toBe(gitHubUser);
 });
 
-test("it should get role using getRole() method", () => {
+test("it should get role with getRole() method", () => {
 	const role = "Engineer";
 	const enginner = new Engineer(
 		"Yohans14",
