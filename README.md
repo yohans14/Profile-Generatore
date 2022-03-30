@@ -10,6 +10,7 @@ This is a command-line application that accepts user input to generate a webpage
 - [Installation](#installation)
 - [Usage](#usage)
 - [Snapshot](#snapshot)
+- [Video](#video)
 - [License](#license)
 - [Tests](#tests)
 - [License](#license)
@@ -42,8 +43,11 @@ After installation applicaton can be used to create team profile.
 ![project screenshot](./assets/images/Team_Profile.png)
 ![project screenshot](./assets/images/terminal_prompt.png)
 
+## Video
 
-[Video]("")
+link to a walkthrough video that demonstrates its functionality and all of the tests passing.
+
+### [Video](https://drive.google.com/file/d/1Ge5TskznlpzK2jkhDoRkXP8Fuf4KhYob/view)
 
 ## License
 
